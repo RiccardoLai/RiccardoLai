@@ -12,7 +12,7 @@ After more than 10 years of experience in logistics and warehouse operations, I 
 
 Here are my main data analysis projects:
 
-### SQL Data Analysis (MySQL)
+### 🗄️SQL Data Analysis (MySQL)
 Business case study using complex queries:
 
 - JOIN
@@ -25,7 +25,7 @@ https://github.com/RiccardoLai/sql-data-analysis-riccardo-lai
 
 ---
 
-### Python Data Analysis
+### 🐍 Python Data Analysis
 
 Data cleaning, exploration and visualization using:
 
@@ -38,7 +38,7 @@ https://github.com/RiccardoLai/python-data-analysis-riccardo-lai
 
 ---
 
-### Power BI Dashboard
+### 📊 Power BI Dashboard
 
 Interactive dashboard with:
 
@@ -51,7 +51,7 @@ https://github.com/RiccardoLai/powerbi-sales-dashboard-riccardo-lai
 
 ---
 
-### Excel Data Analysis
+### 📗 Excel Data Analysis
 
 Sales analysis and dashboard using:
 
@@ -64,7 +64,7 @@ https://github.com/RiccardoLai/excel-sales-analysis-riccardo-lai
 
 ---
 
-### Looker Studio Dashboard
+### 📎 Looker Studio Dashboard
 
 Interactive dashboard using Google Looker Studio.
 
