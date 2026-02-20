@@ -1,16 +1,22 @@
-## Hi there 👋
+Riccardo Lai
 
-<!--
-**RiccardoLai/RiccardoLai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst | EPICODE Certified
 
-Here are some ideas to get you started:
+I am a Junior Data Analyst specialized in SQL, Python, Excel, Power BI and Google Looker Studio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+After more than 10 years of experience in logistics and warehouse operations, I decided to specialize in data analysis to transform data into useful insights for business decisions.
+
+Certifications
+
+EPICODE Institute of Technology
+Data Analyst Professional Program
+
+Technical Skills
+
+SQL
+Python
+Excel
+Power BI
+Google Looker Studio
+Data Cleaning
+Data Visualization
