@@ -23,25 +23,3 @@ Google Looker Studio
 Data Cleaning
 Data Visualization
 Business Analysis
-Dopo questo il tuo GitHub sarà:
-
-livello:
-
-pronto per candidatura reale
-
-Poi faremo il passo finale più importante:
-
-ti faccio candidare in aziende reali con questo GitHub.
-
-Leonardo
-Accenture
-Deloitte
-aziende in Sardegna
-aziende remote
-
-Dimmi ora:
-
-vuoi lavorare
-
-in Sardegna
-o anche remoto tutta Europa?
