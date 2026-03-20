@@ -1,90 +1,31 @@
 # Riccardo Lai
 
-## Data Analyst | SQL • Python • Power BI • Excel • Business Intelligence
+## Junior Data Analyst | Python, SQL, Power BI
 
-I am a Data Analyst specialized in transforming data into actionable business insights.
+# 👋 Hi, I'm Riccardo Lai
 
-After more than 10 years of experience in logistics and warehouse operations, I transitioned into data analysis to support decision-making through data.
+I transform raw data into actionable insights through data cleaning, KPI analysis and interactive dashboards.
 
----
+Junior Data Analyst specialized in:
 
-## Portfolio Projects
+- Python (Pandas, Data Cleaning)
+- SQL (KPI Analysis, Queries)
+- Power BI (Dashboards & Visualization)
 
-Here are my main data analysis projects:
+## 📊 Featured Projects
 
-### 🗄️SQL Data Analysis (MySQL)
-Business case study using complex queries:
+### ⚽ Football Data Analysis
+End-to-end data analysis project with Python, SQL and Power BI  
+👉 [View Project](https://github.com/RiccardoLai/Capstone_football_data_analysis_2024_2025)
 
-- JOIN
-- GROUP BY
-- Aggregations
-- Business insights
-
-Repository:
-https://github.com/RiccardoLai/sql-data-analysis-riccardo-lai
-
----
-
-### 🐍 Python Data Analysis
-
-Data cleaning, exploration and visualization using:
-
-- Pandas
-- NumPy
-- Matplotlib
-
-Repository:
-https://github.com/RiccardoLai/python-data-analysis-riccardo-lai
+### 💾 SQL Data Analysis
+Advanced SQL queries for KPI analysis and business insights  
+👉 [View Project](https://github.com/RiccardoLai/sql-data-analysis-riccardo-lai)
 
 ---
 
-### 📊 Power BI Dashboard
-
-Interactive dashboard with:
-
-- KPIs
-- Revenue analysis
-- Business performance insights
-
-Repository:
-https://github.com/RiccardoLai/powerbi-sales-dashboard-riccardo-lai
-
----
-
-### 📗 Excel Data Analysis
-
-Sales analysis and dashboard using:
-
-- Pivot Tables
-- Charts
-- Business metrics
-
-Repository:
-https://github.com/RiccardoLai/excel-sales-analysis-riccardo-lai
-
----
-
-### 📎 Looker Studio Dashboard
-
-Interactive dashboard using Google Looker Studio.
-
-Repository:
-https://github.com/RiccardoLai/lookerstudio-sales-dashboard-riccardo-lai
-
----
-
-## Technical Skills
-
-SQL  
-Python  
-Power BI  
-Excel  
-Looker Studio  
-Data Visualization  
-Data Cleaning  
-
----
-
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/riccardo-lai-a5948839a
 ## Contact
 
 LinkedIn:
